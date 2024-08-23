@@ -2,4 +2,10 @@
 
 可配合IT邦的文章進行閱讀，也能夠直接使用程式碼！
 
-[量化交易 X 跨界金融 | EP.1 部署股票搜尋器，獲取上市櫃股票資訊](https://ithelp.ithome.com.tw/articles/10310700)
+(https://ithelp.ithome.com.tw/articles/10310700)
+[EP.1 部署股票搜尋器，獲取上市櫃股票資訊](https://ithelp.ithome.com.tw/articles/10310700)
+[EP.2 股市資料視覺化---K線重疊指標](https://ithelp.ithome.com.tw/articles/10310714)
+[EP.3 股市資料視覺化---價格計算指標](https://ithelp.ithome.com.tw/articles/10310718)
+[EP.4 股市資料視覺化---股市量能指標](https://ithelp.ithome.com.tw/articles/10310716)
+[EP.5 股市資料視覺化---股價動量指標](https://ithelp.ithome.com.tw/articles/10310715)
+[EP.6 股市進出場策略制定](https://ithelp.ithome.com.tw/articles/10310717)
